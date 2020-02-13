@@ -18,6 +18,7 @@ message_sprite.SetImage(my_image);
 #message_sprite.SetImage(my_image);
 
 # Step 3) Save the file and reboot system.
+sudo reboot
 
 # Done.
 # The Raspberry Pi does now not show any boot-messages under the splash-screen on startup

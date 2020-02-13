@@ -7,6 +7,7 @@
 sudo cp /home/pi/mySplashscreen/splash.png /usr/share/plymouth/themes/pix/splash.png
 
 # Step 3) Reboot the system.
+sudo reboot
 
 # Done.
 # The Raspberry Pi now shows the image on startup.

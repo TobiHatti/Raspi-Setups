@@ -13,6 +13,7 @@ console=tty3
 logo.nologo vt.global_cursor_default=0
 
 # Step 4) Save the file and reboot system.
+sudo reboot
 
 # Done.
 # The Raspberry Pi does now not show any boot-messages on startup

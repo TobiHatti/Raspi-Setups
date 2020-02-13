@@ -7,6 +7,7 @@
 sudo cp /home/pi/myFonts/myCustomFont.ttf /usr/local/share/fonts/
 
 # Step 3) Reboot the system.
+sudo reboot
 
 # Done.
 # The font can now be used by the Pi

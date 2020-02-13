@@ -7,6 +7,7 @@ sudo nano /boot/config.txt
 disable_splash=1
 
 # Step 3) Save the file and reboot system.
+sudo reboot
 
 # Done.
 # The Raspberry Pi does now not show the rainbow-screen at startup anymore
