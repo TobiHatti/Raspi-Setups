@@ -1,3 +1,5 @@
+<img align="right" width="65" height="80" src="https://upload.wikimedia.org/wikipedia/de/c/cb/Raspberry_Pi_Logo.svg">
+
 # Raspi-Setups
 
 [![GitHub](https://img.shields.io/github/license/TobiHatti/Raspi-Setups)](https://opensource.org/licenses/GPL-3.0)
