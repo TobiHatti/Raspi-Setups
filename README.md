@@ -2,7 +2,7 @@
 
 # Raspi-Setups
 
-[![GitHub](https://img.shields.io/github/license/TobiHatti/Raspi-Setups)](https://opensource.org/licenses/GPL-3.0)
+![GitHub](https://img.shields.io/github/license/TobiHatti/Raspi-Setups)
 [![GitHub Release Date](https://img.shields.io/github/release-date/TobiHatti/Raspi-Setups)](https://github.com/TobiHatti/Raspi-Setups/releases)
 [![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/TobiHatti/Raspi-Setups?include_prereleases)](https://github.com/TobiHatti/Raspi-Setups/releases)
 [![GitHub last commit](https://img.shields.io/github/last-commit/TobiHatti/Raspi-Setups)](https://github.com/TobiHatti/Raspi-Setups/commits/master)
