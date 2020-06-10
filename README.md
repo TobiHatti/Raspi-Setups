@@ -9,6 +9,6 @@
 [![GitHub issues](https://img.shields.io/github/issues-raw/TobiHatti/Raspi-Setups)](https://github.com/TobiHatti/Raspi-Setups/issues)
 [![GitHub language count](https://img.shields.io/github/languages/count/TobiHatti/Raspi-Setups)](https://github.com/TobiHatti/Raspi-Setups)
 
-![image](https://endev.at/content/projects/Raspi-Setups/RaspiSetups_Banner_1080.png)
+![image](https://endev.at/content/projects/Raspi-Setups/RaspiSetups_Banner_300.png)
 
 This repo contains several small scripts and instructions to modify settings and the appearance of the raspberry-pi (running on raspian)
